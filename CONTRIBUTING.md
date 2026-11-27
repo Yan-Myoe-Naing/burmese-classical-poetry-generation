@@ -31,7 +31,7 @@ Exact agreement with a reference continuation is not required: a different conti
 
 Do not commit:
 
-- model checkpoints or weight files
+- newly generated checkpoints or weight files (the archived experiment checkpoints are kept in `notebooks/model_checkpoints/`)
 - notebook autosave folders
 - local virtual environments
 - private human-feedback responses
