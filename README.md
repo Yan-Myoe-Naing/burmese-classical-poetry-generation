@@ -98,7 +98,7 @@ The selected model produced similar scores on validation and on this held-out sp
 .
 ├── README.md
 ├── requirements.txt
-├── burmese_classical_poetry_chunked.xlsx       # original corpus in this private repository
+├── burmese_classical_poetry_chunked.xlsx       # original corpus
 ├── poem.ipynb                                 # earlier notebook
 ├── data/
 │   └── README.md                              # local dataset format and expected path

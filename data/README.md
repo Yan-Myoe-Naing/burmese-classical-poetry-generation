@@ -1,6 +1,6 @@
 # Dataset
 
-`burmese_classical_poetry_chunked.xlsx` is a dataset of Burmese classical poetry that I compiled and structured myself for this project. The notebook reads the existing workbook at the root of this private repository. Document the source editions and verify redistribution rights before sharing the full-text workbook publicly.
+`burmese_classical_poetry_chunked.xlsx` is a dataset of Burmese classical poetry that I compiled and structured myself for this project. The notebook reads the workbook at the repository root. The source editions and redistribution permissions for individual poems have yet to be documented.
 
 ## Format
 
